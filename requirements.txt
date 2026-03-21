@@ -1,0 +1,6 @@
+streamlit
+numpy
+plotly
+requests
+python-dotenv
+
