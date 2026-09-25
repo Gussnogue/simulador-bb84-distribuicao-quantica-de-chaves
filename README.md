@@ -84,6 +84,3 @@ simulador-bb84-distribuicao-quantica-de-chaves/
 ├── utils.py               # Funções auxiliares
 └── simulador-bb84-*.png   # Imagem de exemplo
 ```
-
-# 📄 Licença
-MIT License – sinta-se à vontade para usar, modificar e contribuir.
